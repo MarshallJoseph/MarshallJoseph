@@ -1,4 +1,5 @@
- My name is Marshall Joseph. 🙋‍♂️
+Hi there 👋
+My name is Marshall Joseph. 🙋‍♂️
 I'm a Software Developer from Ontario, Canada. 🍁
 I recently graduated with a Master's degree in Computer Science. 🎓
 I'm currently seeking full-time opportunities in early 2024. 💻
