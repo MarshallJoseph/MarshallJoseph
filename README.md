@@ -1,8 +1,8 @@
-Hi there 👋
-My name is Marshall Joseph. 🙋‍♂️
-I'm a Software Developer from Ontario, Canada. 🍁
-I recently graduated with a Master's degree in Computer Science. 🎓
-I'm currently seeking full-time opportunities in early 2024. 💻
+Hi there 👋  
+My name is Marshall Joseph. 🙋‍♂️  
+I'm a Software Developer from Ontario, Canada. 🍁  
+I recently graduated with a Master's degree in Computer Science. 🎓  
+I'm currently seeking full-time opportunities in early 2024. 💻  
 
 <!--
 **MarshallJoseph/MarshallJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
